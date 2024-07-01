@@ -32,8 +32,7 @@ A simple weather application built with Flutter that fetches weather data using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather_app.git
-   cd weather_app
+   https://github.com/nikhilkum1r/weather_api.git
    ```
 
 2. Install the required packages:
