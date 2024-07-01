@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class WeatherApiService extends ChangeNotifier {
   final String apiKey =
-      '4599c81a20bd0799bde02390102640ac'; // Replace with your API key
+      'YOUR_API_KEY'; // Replace with your API key
   final String baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
   Map<String, dynamic>? _weatherData;
   String? _errorMessage;
