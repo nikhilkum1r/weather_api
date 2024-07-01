@@ -20,9 +20,9 @@ A simple weather application built with Flutter that fetches weather data using 
 
 ## Screenshots
 
-![Home Screen](screenshots/Screenshot_2024-07-01-18-16-52-760_com.example.weather_app.jpg)
-![Weather Details Screen](screenshots/Screenshot_2024-07-01-18-16-41-997_com.example.weather_app.jpg)
-![Responsive Design](screenshots/Weather%20App%20-%20Google%20Chrome%2001-07-2024%2018_20_17.png)
+![Home Screen](Screenshot_2024-07-01-18-16-52-760_com.example.weather_app.jpg)
+![Weather Details Screen](Screenshot_2024-07-01-18-16-41-997_com.example.weather_app.jpg)
+![Responsive Design](Weather%20App%20-%20Google%20Chrome%2001-07-2024%2018_20_17.png)
 
 ## Getting Started
 
